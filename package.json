@@ -1,0 +1,22 @@
+{
+  "name": "marlon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanisSevens/marlon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JanisSevens/marlon/issues"
+  },
+  "homepage": "https://github.com/JanisSevens/marlon#readme",
+  "dependencies": {
+    "backbone": "file:node_modules/backbone"
+  }
+}
